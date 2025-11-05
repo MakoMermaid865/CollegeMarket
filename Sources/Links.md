@@ -6,7 +6,8 @@
 - https://www.youtube.com/watch?v=3C_22eBWpjg
 
 **Docker**
-- 
+- https://www.youtube.com/watch?v=DQdB7wFEygo&t=48s
+  
 **Angular**
 - https://www.youtube.com/watch?v=LYmJOdCuXrs&list=PLY7EDLM5qnl47r52Rf3h4AEq9TRooTgo2&index=1
 - https://www.youtube.com/watch?v=oUmVFHlwZsI
